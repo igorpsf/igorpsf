@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor Postnikov</h1>
-<h3 align="center">A passionate frontend developer from Mountain View, California</h3>
 <img align="right" class="avatar rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/26352039?s=400&amp;u=ff47db5725a8017a979d1cf72aeb5832525f00dc&amp;v=4" width="200" height="200" alt="@igorpsf">
 
-- 👨‍💻 All of my projects are available at [igorp.io](igorp.io)
 
 - 📫 How to reach me **igor.postnikov8@gmail.com**
 
